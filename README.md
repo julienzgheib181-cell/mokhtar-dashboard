@@ -1,7 +1,7 @@
 # Mokhtar Dashboard (V2) 🖤💎
 
 A lightweight web app (Next.js + Supabase) for:
-- Customers
+- Customers..
 - Debts (USD/LBP) + WhatsApp reminders (Arabic + English)
 - Sales + totals (and optional auto-create Debt from a Sale)
 

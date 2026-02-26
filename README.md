@@ -1,4 +1,4 @@
-# Mokhtar Dashboard (V2) 🖤💎
+# Mokhtar Dashboard.. (V2) 🖤💎
 
 A lightweight web app (Next.js + Supabase) for:
 - Customers..

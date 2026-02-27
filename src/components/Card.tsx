@@ -1,0 +1,1 @@
+export function Card({title,children}:{title:string;children:React.ReactNode}){return(<div className="rounded-2xl bg-white shadow-sm border p-4"><div className="text-sm text-zinc-600 mb-2">{title}</div><div>{children}</div></div>);} 

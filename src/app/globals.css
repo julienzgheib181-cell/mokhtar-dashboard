@@ -2,10 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  color-scheme: dark;
-}
-
-body {
-  background: #0b0b0f;
-}
+:root{color-scheme:light;}
+body{@apply bg-zinc-50 text-zinc-900;}
